@@ -1,0 +1,6 @@
+{
+  "name": "IT Career Roadmap",
+  "description": "Personalized 4-year career planning and roadmap application for students and early professionals preparing for high-impact IT roles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
